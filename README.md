@@ -4,7 +4,7 @@
 Thyroid cancer is a significant endocrine malignancy, presenting challenges in differentiating benign from malignant nodules. This project utilizes computational tools to identify potential biomarkers for thyroid cancer, aiding in early diagnosis, prognosis, and personalized treatment.
 
 ## Motivation
-Current diagnostic methods often yield inconclusive results. This study focuses on leveraging computational methods to analyze publicly available datasets and identify reliable biomarkers. Datasets analyzed include GSE29265, GSE33630, GSE35770, GSE82280, GSE60542, processed with stringent thresholds for FDR and logFC using EdgeR.
+Current diagnostic methods often yield inconclusive results. This study focuses on leveraging computational methods to analyze publicly available datasets and identify reliable biomarkers. Datasets analyzed include GSE29265, GSE33630, GSE35570, GSE82280, GSE60542, processed with stringent thresholds for FDR and logFC using EdgeR.
 
 ## Methodology
 1. **Data Preprocessing**:
@@ -50,7 +50,7 @@ This study integrates bioinformatics tools to identify biomarkers like **APOE**,
   - [GSE33630](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE33630)
   - [GSE60542](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60542)
   - [GSE82208](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE82208)
-  - [GSE35770](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE35770)
+  - [GSE35570](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE35770)
 
 ## References
 1. Omicslogic Learn Project - Identification of novel biomarkers for thyroid cancer.
