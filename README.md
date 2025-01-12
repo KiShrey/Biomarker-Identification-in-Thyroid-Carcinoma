@@ -4,7 +4,7 @@
 Thyroid cancer is a significant endocrine malignancy, presenting challenges in differentiating benign from malignant nodules. This project utilizes computational tools to identify potential biomarkers for thyroid cancer, aiding in early diagnosis, prognosis, and personalized treatment.
 
 ## Motivation
-Current diagnostic methods often yield inconclusive results. This study focuses on leveraging computational methods to analyze publicly available datasets and identify reliable biomarkers. Datasets analyzed include GSE29265, GSE33630, GSE35570, GSE82280, GSE60542, processed with stringent thresholds for FDR and logFC using EdgeR.
+Current diagnostic methods often yield inconclusive results. This study focuses on leveraging computational methods to analyze publicly available datasets and identify reliable biomarkers. Datasets analyzed include GSE29265, GSE33630, GSE35570, GSE82208, GSE60542, processed with stringent thresholds for FDR and logFC using EdgeR.
 
 ## Methodology
 1. **Data Preprocessing**:
