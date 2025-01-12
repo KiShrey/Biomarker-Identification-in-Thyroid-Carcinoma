@@ -1,0 +1,11 @@
+Category,Description,Key Insights,Example Genes/Proteins
+SMART Domains,Enriched protein domains identified in the network.,Domains like 'Epidermal growth factor-like' and 'Calcium-binding EGF-like' indicate roles in signaling and coagulation.,"`LRP4`, `PLAU`, `PROS1`"
+Pfam Domains,Enriched protein families based on Pfam annotations.,Families such as 'Complement Clr-like EGF-like' are associated with complement cascades and coagulation.,"`LRP4`, `PROS1`"
+UniProt Keywords,Biological keywords associated with network proteins.,"Keywords like 'Blood coagulation,' 'Fibrinolysis,' and 'Secreted' suggest extracellular and immune-related roles.","`PLAU`, `PROS1`, `SERPINA1`"
+Reactome Pathways (RCTM),Reactome pathways enriched in the network.,Pathways such as 'Neurotransmitter receptors' highlight involvement in signaling and tumor microenvironment modulation.,"`GABBR2`, `GABRB2`"
+KEGG Pathways,Enriched Kyoto Encyclopedia of Genes and Genomes (KEGG) pathways.,"Pathways include 'Complement and coagulation cascades' and 'Cholesterol metabolism,' linking immune response and lipid transport.","`PLAU`, `PROS1`, `APOC1`, `APOE`"
+Functional Clusters,STRING-identified local network clusters.,Clusters like 'Regulation of IGF transport' and 'Platelet alpha granule lumen' indicate functional groupings.,"`APOC1`, `APOE`, `PROS1`, `SERPINA1`"
+Literature Evidence (PMID),Publications linked to proteins in the network.,"Studies provide support for roles of proteins in cancer progression, coagulation, and metabolism.","`APOC1`, `PLAU`, `SERPINA1`, `SLC34A2`"
+GO Cellular Component,Cellular localization of proteins based on Gene Ontology (GO-CC).,Enriched components like 'Extracellular space' and 'Cytoplasmic vesicle lumen' indicate extracellular activity.,"`APOC1`, `APOE`, `PLAU`, `SERPINA1`"
+GO Molecular Function,Molecular functions based on Gene Ontology (GO-MF).,Functions such as 'Enzyme inhibitor activity' and 'Molecular function regulator' highlight regulatory roles.,"`SERPINA1`, `PROS1`, `APOC1`"
+GO Biological Process,Biological processes based on Gene Ontology (GO-BP).,Processes like 'Regulation of signal transduction' and 'Vesicle-mediated transport' highlight diverse roles in cellular dynamics.,"`APOC1`, `APOE`, `CHI3L1`, `LRRK2`, `PLAU`"
